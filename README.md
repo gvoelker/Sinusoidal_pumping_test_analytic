@@ -7,3 +7,5 @@ Date 02.08.2021
 No guarantee for completeness or correctness
 Help in the case that phi0 is negative: Delete some of the inputdata, might sound strange, but results in a change in phi0
 In case of question, please contact me at gvoelker@avoutta.de
+
+Outlook: If I find the time, I might add a function to automatic detect the period length
